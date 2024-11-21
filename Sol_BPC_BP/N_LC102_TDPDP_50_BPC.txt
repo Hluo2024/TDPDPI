@@ -1,0 +1,44 @@
+Instance Name: 	N_LC102_TDPDP_50
+Status: Optimum
+Root LP: 	9025.06
+Root Time: 	0.804
+Best Bound: 	9025.06
+Best Upper Bound: 	9025.06
+Total Time: 	0.804
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 10, 9, 35, 34, 20, 45, 12, 37, 51]
+	Cost: 1412.72
+	Duration: 882.953
+	Departure Time: 88.6879
+Route #2: [0, 13, 38, 3, 28, 5, 30, 4, 29, 51]
+	Cost: 1298.92
+	Duration: 787.754
+	Departure Time: 65.9231
+Route #3: [0, 14, 39, 16, 41, 51]
+	Cost: 497.046
+	Duration: 310.654
+	Departure Time: 345.115
+Route #4: [0, 7, 32, 2, 27, 1, 26, 51]
+	Cost: 986.161
+	Duration: 611.119
+	Departure Time: 26.8077
+Route #5: [0, 11, 15, 40, 36, 51]
+	Cost: 1366.52
+	Duration: 854.078
+	Departure Time: 65.3077
+Route #6: [0, 18, 43, 17, 42, 19, 44, 21, 46, 51]
+	Cost: 1285.56
+	Duration: 715.352
+	Departure Time: 6.67692
+Route #7: [0, 22, 24, 23, 47, 25, 8, 33, 48, 49, 50, 51]
+	Cost: 1832.91
+	Duration: 1145.57
+	Departure Time: 12.2989
+Route #8: [0, 6, 31, 51]
+	Cost: 345.203
+	Duration: 215.752
+	Departure Time: 348.192
+Total Cost:	9025.06
+Total Duration:	5523.23

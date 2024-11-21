@@ -1,0 +1,44 @@
+Instance Name: 	L_LC206_TDPDP_60
+Status: Optimum
+Root LP: 	16165.9
+Root Time: 	16.456
+Best Bound: 	16165.9
+Best Upper Bound: 	16165.9
+Total Time: 	16.456
+#Cuts: 	1
+#Nodes: 	1
+Best solution:
+Route #1: [0, 13, 43, 25, 55, 29, 59, 61]
+	Cost: 1171.31
+	Duration: 732.066
+	Departure Time: 2261.81
+Route #2: [0, 14, 12, 42, 44, 11, 15, 41, 45, 61]
+	Cost: 1799.66
+	Duration: 1124.78
+	Departure Time: 1701.12
+Route #3: [0, 18, 1, 28, 30, 60, 3, 33, 4, 17, 48, 47, 58, 31, 34, 61]
+	Cost: 4607.42
+	Duration: 2509.66
+	Departure Time: 343
+Route #4: [0, 10, 22, 6, 23, 19, 27, 53, 52, 49, 9, 36, 24, 57, 26, 54, 56, 39, 40, 8, 38, 61]
+	Cost: 3951.82
+	Duration: 2469.89
+	Departure Time: 462.533
+Route #5: [0, 20, 50, 21, 51, 61]
+	Cost: 938.859
+	Duration: 555.004
+	Departure Time: 299.983
+Route #6: [0, 5, 35, 2, 32, 61]
+	Cost: 920.655
+	Duration: 575.409
+	Departure Time: 344.444
+Route #7: [0, 16, 46, 61]
+	Cost: 1135.32
+	Duration: 709.572
+	Departure Time: 484.722
+Route #8: [0, 7, 37, 61]
+	Cost: 1640.88
+	Duration: 1025.55
+	Departure Time: 1295.16
+Total Cost:	16165.9
+Total Duration:	9701.94

@@ -1,0 +1,40 @@
+Instance Name: 	S_LRC104_TDPDP_50
+Status: Optimum
+Root LP: 	2285.57
+Root Time: 	0.99
+Best Bound: 	2285.57
+Best Upper Bound: 	2285.57
+Total Time: 	0.99
+#Cuts: 	6
+#Nodes: 	1
+Best solution:
+Route #1: [0, 21, 46, 25, 50, 51]
+	Cost: 359.367
+	Duration: 214.436
+	Departure Time: 17.4875
+Route #2: [0, 17, 42, 18, 43, 15, 40, 16, 41, 19, 44, 51]
+	Cost: 370.68
+	Duration: 225.821
+	Departure Time: 2.00357
+Route #3: [0, 10, 9, 35, 34, 8, 33, 51]
+	Cost: 293.853
+	Duration: 183.658
+	Departure Time: 1.975
+Route #4: [0, 3, 1, 26, 28, 7, 2, 27, 32, 51]
+	Cost: 324.637
+	Duration: 198.754
+	Departure Time: 4.9375
+Route #5: [0, 22, 47, 20, 45, 23, 24, 49, 48, 51]
+	Cost: 339.386
+	Duration: 212.116
+	Departure Time: 7.40875
+Route #6: [0, 14, 12, 37, 39, 11, 36, 51]
+	Cost: 229.253
+	Duration: 143.283
+	Departure Time: 94.0167
+Route #7: [0, 13, 38, 6, 31, 4, 29, 5, 30, 51]
+	Cost: 368.391
+	Duration: 228.605
+	Departure Time: 7.42857
+Total Cost:	2285.57
+Total Duration:	1406.67

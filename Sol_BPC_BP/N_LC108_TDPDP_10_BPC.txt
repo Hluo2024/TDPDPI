@@ -1,0 +1,20 @@
+Instance Name: 	N_LC108_TDPDP_10
+Status: Optimum
+Root LP: 	2211.8
+Root Time: 	0.009
+Best Bound: 	2211.8
+Best Upper Bound: 	2211.8
+Total Time: 	0.009
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 3, 5, 10, 8, 11]
+	Cost: 629.841
+	Duration: 393.651
+	Departure Time: 197.242
+Route #2: [0, 1, 4, 9, 2, 6, 7, 11]
+	Cost: 1581.96
+	Duration: 829.624
+	Departure Time: 214.362
+Total Cost:	2211.8
+Total Duration:	1223.27

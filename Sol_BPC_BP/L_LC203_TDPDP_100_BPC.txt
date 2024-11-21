@@ -1,0 +1,212 @@
+Instance Name: 	L_LC203_TDPDP_100
+Status: Optimum
+Root LP: 	35162.3
+Root Time: 	7202.82
+Best Bound: 	35162.3
+Best Upper Bound: 	35162.3
+Total Time: 	7202.82
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 49, 99, 101]
+	Cost: 747.907
+	Duration: 306.454
+	Departure Time: 3040.85
+Route #2: [0, 47, 97, 101]
+	Cost: 577.91
+	Duration: 355.011
+	Departure Time: 0
+Route #3: [0, 46, 96, 101]
+	Cost: 568.4
+	Duration: 355.25
+	Departure Time: 2469.75
+Route #4: [0, 45, 95, 101]
+	Cost: 603.884
+	Duration: 377.428
+	Departure Time: 2447.57
+Route #5: [0, 42, 92, 101]
+	Cost: 659.101
+	Duration: 336.308
+	Departure Time: 2825.26
+Route #6: [0, 41, 91, 101]
+	Cost: 784.315
+	Duration: 444.377
+	Departure Time: 2023.62
+Route #7: [0, 39, 89, 101]
+	Cost: 394.311
+	Duration: 246.444
+	Departure Time: 151.656
+Route #8: [0, 36, 86, 101]
+	Cost: 501.618
+	Duration: 313.511
+	Departure Time: 2511.49
+Route #9: [0, 35, 85, 101]
+	Cost: 867.877
+	Duration: 542.423
+	Departure Time: 972.577
+Route #10: [0, 31, 81, 101]
+	Cost: 584.544
+	Duration: 342.006
+	Departure Time: 0
+Route #11: [0, 11, 61, 101]
+	Cost: 499.538
+	Duration: 312.211
+	Departure Time: 2394.13
+Route #12: [0, 30, 80, 101]
+	Cost: 498.187
+	Duration: 295.411
+	Departure Time: 0
+Route #13: [0, 9, 59, 101]
+	Cost: 421.765
+	Duration: 263.603
+	Departure Time: 2562.13
+Route #14: [0, 32, 82, 101]
+	Cost: 498.548
+	Duration: 311.592
+	Departure Time: 803.515
+Route #15: [0, 3, 53, 101]
+	Cost: 465.922
+	Duration: 283.906
+	Departure Time: 0
+Route #16: [0, 7, 57, 101]
+	Cost: 487.68
+	Duration: 304.8
+	Departure Time: 2520.2
+Route #17: [0, 12, 62, 101]
+	Cost: 629.049
+	Duration: 393.156
+	Departure Time: 2431.84
+Route #18: [0, 5, 55, 101]
+	Cost: 620.627
+	Duration: 381.115
+	Departure Time: 504.893
+Route #19: [0, 2, 52, 101]
+	Cost: 668.358
+	Duration: 411.1
+	Departure Time: 0
+Route #20: [0, 44, 94, 101]
+	Cost: 2494.49
+	Duration: 1125.07
+	Departure Time: 1658.07
+Route #21: [0, 18, 68, 101]
+	Cost: 471.209
+	Duration: 294.506
+	Departure Time: 161.722
+Route #22: [0, 37, 87, 101]
+	Cost: 432.197
+	Duration: 241.95
+	Departure Time: 0
+Route #23: [0, 23, 73, 101]
+	Cost: 522.649
+	Duration: 326.656
+	Departure Time: 1148.53
+Route #24: [0, 13, 63, 101]
+	Cost: 2268.75
+	Duration: 1417.97
+	Departure Time: 948.123
+Route #25: [0, 50, 100, 101]
+	Cost: 663.879
+	Duration: 398.644
+	Departure Time: 154.256
+Route #26: [0, 8, 58, 101]
+	Cost: 749.822
+	Duration: 335.199
+	Departure Time: 2668.72
+Route #27: [0, 19, 69, 101]
+	Cost: 1038.67
+	Duration: 649.171
+	Departure Time: 1154.28
+Route #28: [0, 1, 51, 101]
+	Cost: 500.417
+	Duration: 311.033
+	Departure Time: 0
+Route #29: [0, 38, 88, 101]
+	Cost: 425.391
+	Duration: 265.869
+	Departure Time: 529.1
+Route #30: [0, 15, 65, 101]
+	Cost: 497.013
+	Duration: 310.633
+	Departure Time: 2305.87
+Route #31: [0, 17, 67, 101]
+	Cost: 366.45
+	Duration: 226.106
+	Departure Time: 0
+Route #32: [0, 43, 93, 101]
+	Cost: 658.612
+	Duration: 411.632
+	Departure Time: 2594.04
+Route #33: [0, 34, 84, 101]
+	Cost: 542.862
+	Duration: 339.288
+	Departure Time: 889.615
+Route #34: [0, 4, 54, 101]
+	Cost: 633.316
+	Duration: 395.822
+	Departure Time: 1299.18
+Route #35: [0, 21, 71, 101]
+	Cost: 1790.99
+	Duration: 1061.46
+	Departure Time: 340.472
+Route #36: [0, 14, 64, 101]
+	Cost: 691.247
+	Duration: 432.029
+	Departure Time: 767.631
+Route #37: [0, 22, 72, 101]
+	Cost: 475.839
+	Duration: 297.4
+	Departure Time: 268.639
+Route #38: [0, 16, 66, 101]
+	Cost: 540.08
+	Duration: 337.55
+	Departure Time: 2487.45
+Route #39: [0, 24, 74, 101]
+	Cost: 528.886
+	Duration: 330.554
+	Departure Time: 1904.58
+Route #40: [0, 33, 83, 101]
+	Cost: 529.147
+	Duration: 330.717
+	Departure Time: 1166.57
+Route #41: [0, 10, 60, 101]
+	Cost: 250.598
+	Duration: 156.624
+	Departure Time: 2797.06
+Route #42: [0, 25, 75, 101]
+	Cost: 412.25
+	Duration: 257.656
+	Departure Time: 2793.87
+Route #43: [0, 26, 76, 101]
+	Cost: 2772.55
+	Duration: 1732.84
+	Departure Time: 1055.35
+Route #44: [0, 40, 90, 101]
+	Cost: 734.105
+	Duration: 385.089
+	Departure Time: 2260
+Route #45: [0, 6, 56, 101]
+	Cost: 453.51
+	Duration: 283.444
+	Departure Time: 429.933
+Route #46: [0, 27, 77, 101]
+	Cost: 576.603
+	Duration: 360.377
+	Departure Time: 1874.28
+Route #47: [0, 20, 70, 101]
+	Cost: 505.893
+	Duration: 316.183
+	Departure Time: 2477.96
+Route #48: [0, 28, 78, 101]
+	Cost: 522.981
+	Duration: 269.978
+	Departure Time: 2118.4
+Route #49: [0, 48, 98, 101]
+	Cost: 499.953
+	Duration: 312.471
+	Departure Time: 1544.18
+Route #50: [0, 29, 79, 101]
+	Cost: 532.399
+	Duration: 332.749
+	Departure Time: 1366.93
+Total Cost:	35162.3
+Total Duration:	20822.8

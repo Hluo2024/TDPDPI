@@ -1,0 +1,84 @@
+Instance Name: 	S_LRC106_TDPDP_100
+Status: Optimum
+Root LP: 	5177.18
+Root Time: 	1.724
+Best Bound: 	5256.57
+Best Upper Bound: 	5256.57
+Total Time: 	14.664
+#Cuts: 	0
+#Nodes: 	35
+Best solution:
+Route #1: [0, 2, 52, 4, 6, 56, 54, 39, 89, 101]
+	Cost: 294.328
+	Duration: 181.712
+	Departure Time: 13.5018
+Route #2: [0, 24, 74, 23, 73, 28, 78, 49, 99, 101]
+	Cost: 357.039
+	Duration: 205.458
+	Departure Time: 0
+Route #3: [0, 11, 10, 60, 12, 13, 63, 61, 62, 101]
+	Cost: 300.243
+	Duration: 187.652
+	Departure Time: 17.5125
+Route #4: [0, 32, 82, 33, 83, 38, 88, 101]
+	Cost: 266.87
+	Duration: 166.794
+	Departure Time: 34.575
+Route #5: [0, 19, 15, 65, 69, 21, 71, 101]
+	Cost: 327.972
+	Duration: 191.47
+	Departure Time: 10.3214
+Route #6: [0, 43, 93, 101]
+	Cost: 100.297
+	Duration: 62.6857
+	Departure Time: 88.4143
+Route #7: [0, 45, 95, 101]
+	Cost: 191.1
+	Duration: 119.437
+	Departure Time: 45.3125
+Route #8: [0, 48, 98, 101]
+	Cost: 248.333
+	Duration: 155.208
+	Departure Time: 29.8
+Route #9: [0, 41, 91, 7, 57, 101]
+	Cost: 281.416
+	Duration: 173.85
+	Departure Time: 31.525
+Route #10: [0, 44, 94, 25, 27, 77, 75, 101]
+	Cost: 365.491
+	Duration: 226.796
+	Departure Time: 1.8625
+Route #11: [0, 47, 97, 5, 3, 53, 1, 51, 55, 101]
+	Cost: 336.159
+	Duration: 198.742
+	Departure Time: 20.6
+Route #12: [0, 17, 67, 14, 64, 20, 70, 101]
+	Cost: 286.258
+	Duration: 174.979
+	Departure Time: 39.9875
+Route #13: [0, 34, 84, 8, 58, 42, 92, 101]
+	Cost: 360.065
+	Duration: 212.587
+	Departure Time: 23.7875
+Route #14: [0, 31, 81, 30, 80, 29, 79, 101]
+	Cost: 382.21
+	Duration: 191.896
+	Departure Time: 5.8125
+Route #15: [0, 36, 86, 40, 50, 100, 90, 101]
+	Cost: 259.118
+	Duration: 156.7
+	Departure Time: 30.175
+Route #16: [0, 46, 96, 26, 22, 72, 76, 101]
+	Cost: 322.131
+	Duration: 201.332
+	Departure Time: 25.675
+Route #17: [0, 9, 16, 59, 66, 101]
+	Cost: 298.427
+	Duration: 186.517
+	Departure Time: 20.2
+Route #18: [0, 37, 87, 35, 18, 68, 85, 101]
+	Cost: 279.108
+	Duration: 171.59
+	Departure Time: 22.6188
+Total Cost:	5256.57
+Total Duration:	3165.41

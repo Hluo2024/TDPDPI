@@ -1,0 +1,36 @@
+Instance Name: 	L_LC207_TDPDP_80
+Status: TimeLimitReached
+Root LP: 	19644.7
+Root Time: 	7201.07
+Best Bound: 	19772.7
+Best Upper Bound: 	19772.7
+Total Time: 	7202.36
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 35, 75, 23, 36, 76, 38, 6, 78, 27, 4, 25, 63, 67, 26, 46, 24, 66, 65, 64, 44, 81]
+	Cost: 4227.2
+	Duration: 2642
+	Departure Time: 236.682
+Route #2: [0, 34, 74, 32, 72, 10, 11, 12, 52, 50, 14, 54, 13, 51, 53, 9, 7, 47, 49, 81]
+	Cost: 3173.75
+	Duration: 1983.59
+	Departure Time: 883.708
+Route #3: [0, 33, 29, 73, 39, 79, 69, 81]
+	Cost: 1915.91
+	Duration: 1197.44
+	Departure Time: 1333.57
+Route #4: [0, 5, 1, 45, 41, 16, 20, 56, 60, 81]
+	Cost: 1692.78
+	Duration: 1049.18
+	Departure Time: 163.206
+Route #5: [0, 2, 37, 30, 77, 21, 61, 42, 3, 43, 8, 31, 28, 40, 68, 71, 48, 70, 80, 81]
+	Cost: 6754.36
+	Duration: 2808.35
+	Departure Time: 313.8
+Route #6: [0, 15, 18, 55, 22, 62, 19, 58, 59, 17, 57, 81]
+	Cost: 2008.66
+	Duration: 1183.53
+	Departure Time: 390.469
+Total Cost:	19772.7
+Total Duration:	10864.1

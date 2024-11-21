@@ -1,0 +1,64 @@
+Instance Name: 	S_LRC107_TDPDP_80
+Status: Optimum
+Root LP: 	3879.08
+Root Time: 	3.009
+Best Bound: 	3879.08
+Best Upper Bound: 	3879.08
+Total Time: 	3.009
+#Cuts: 	12
+#Nodes: 	1
+Best solution:
+Route #1: [0, 31, 71, 7, 9, 49, 47, 81]
+	Cost: 292.469
+	Duration: 175.554
+	Departure Time: 24.0625
+Route #2: [0, 21, 61, 29, 69, 81]
+	Cost: 291.448
+	Duration: 177.071
+	Departure Time: 14.6125
+Route #3: [0, 10, 11, 50, 51, 8, 48, 37, 77, 81]
+	Cost: 391.926
+	Duration: 215.126
+	Departure Time: 10.8411
+Route #4: [0, 34, 74, 16, 56, 81]
+	Cost: 227.913
+	Duration: 142.446
+	Departure Time: 59.2625
+Route #5: [0, 2, 42, 6, 46, 3, 5, 43, 1, 41, 45, 4, 44, 81]
+	Cost: 375.551
+	Duration: 223.696
+	Departure Time: 4.95893
+Route #6: [0, 26, 25, 27, 66, 67, 65, 28, 68, 33, 73, 81]
+	Cost: 374.184
+	Duration: 225.439
+	Departure Time: 4.14429
+Route #7: [0, 39, 79, 40, 30, 80, 70, 81]
+	Cost: 414.013
+	Duration: 220.442
+	Departure Time: 2.35
+Route #8: [0, 18, 13, 14, 12, 52, 58, 53, 54, 81]
+	Cost: 323.447
+	Duration: 202.155
+	Departure Time: 14.1537
+Route #9: [0, 17, 57, 15, 55, 81]
+	Cost: 216.535
+	Duration: 134.351
+	Departure Time: 61.2857
+Route #10: [0, 36, 76, 35, 75, 81]
+	Cost: 277.647
+	Duration: 173.529
+	Departure Time: 19.2625
+Route #11: [0, 32, 72, 24, 64, 81]
+	Cost: 226.985
+	Duration: 141.865
+	Departure Time: 89.9762
+Route #12: [0, 22, 62, 20, 60, 19, 59, 23, 63, 81]
+	Cost: 351.808
+	Duration: 219.88
+	Departure Time: 7.85
+Route #13: [0, 38, 78, 81]
+	Cost: 115.15
+	Duration: 71.9686
+	Departure Time: 69.2714
+Total Cost:	3879.08
+Total Duration:	2323.52

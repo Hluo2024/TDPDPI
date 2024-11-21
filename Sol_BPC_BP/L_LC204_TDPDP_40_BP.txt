@@ -1,0 +1,28 @@
+Instance Name: 	L_LC204_TDPDP_40
+Status: Optimum
+Root LP: 	8182.59
+Root Time: 	647.998
+Best Bound: 	8182.59
+Best Upper Bound: 	8182.59
+Total Time: 	647.998
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 12, 32, 5, 1, 21, 25, 41]
+	Cost: 1558.94
+	Duration: 917.454
+	Departure Time: 2232.12
+Route #2: [0, 17, 37, 2, 22, 7, 27, 3, 23, 4, 24, 41]
+	Cost: 2073.32
+	Duration: 1236.02
+	Departure Time: 204.856
+Route #3: [0, 16, 36, 13, 19, 39, 14, 34, 33, 11, 31, 10, 15, 35, 9, 30, 29, 8, 28, 41]
+	Cost: 3323.53
+	Duration: 1799.43
+	Departure Time: 1322.36
+Route #4: [0, 6, 26, 20, 40, 18, 38, 41]
+	Cost: 1226.8
+	Duration: 766.753
+	Departure Time: 2027.39
+Total Cost:	8182.59
+Total Duration:	4719.66

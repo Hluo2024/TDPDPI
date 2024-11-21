@@ -1,0 +1,24 @@
+Instance Name: 	L_LC205_TDPDP_30
+Status: Optimum
+Root LP: 	7632.17
+Root Time: 	0.361
+Best Bound: 	7632.17
+Best Upper Bound: 	7632.17
+Total Time: 	0.361
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 6, 12, 11, 4, 14, 10, 25, 27, 21, 26, 29, 19, 31]
+	Cost: 3689.78
+	Duration: 2306.12
+	Departure Time: 678.623
+Route #2: [0, 13, 28, 8, 23, 9, 7, 22, 24, 31]
+	Cost: 1719.63
+	Duration: 958.248
+	Departure Time: 2079.64
+Route #3: [0, 15, 30, 5, 2, 1, 20, 16, 17, 3, 18, 31]
+	Cost: 2222.75
+	Duration: 1314.65
+	Departure Time: 85.7799
+Total Cost:	7632.17
+Total Duration:	4579.02

@@ -1,0 +1,64 @@
+Instance Name: 	N_LC107_TDPDP_100
+Status: Optimum
+Root LP: 	16775.7
+Root Time: 	109.969
+Best Bound: 	16775.7
+Best Upper Bound: 	16775.7
+Total Time: 	109.969
+#Cuts: 	4
+#Nodes: 	1
+Best solution:
+Route #1: [0, 11, 18, 6, 56, 61, 68, 101]
+	Cost: 1069.12
+	Duration: 668.2
+	Departure Time: 50
+Route #2: [0, 24, 22, 23, 72, 25, 75, 26, 74, 73, 76, 101]
+	Cost: 1524.42
+	Duration: 952.762
+	Departure Time: 93.5659
+Route #3: [0, 15, 65, 16, 66, 21, 71, 12, 13, 14, 64, 63, 62, 101]
+	Cost: 1630.75
+	Duration: 972.443
+	Departure Time: 110.366
+Route #4: [0, 31, 30, 80, 81, 33, 83, 101]
+	Cost: 1287.88
+	Duration: 537.546
+	Departure Time: 188.077
+Route #5: [0, 3, 8, 2, 53, 58, 47, 52, 97, 101]
+	Cost: 1620.04
+	Duration: 890.63
+	Departure Time: 90.7308
+Route #6: [0, 43, 93, 40, 90, 39, 89, 32, 82, 101]
+	Cost: 1228.02
+	Duration: 762.747
+	Departure Time: 13.9769
+Route #7: [0, 10, 60, 9, 59, 7, 57, 101]
+	Cost: 985.435
+	Duration: 615.897
+	Departure Time: 186.934
+Route #8: [0, 37, 44, 41, 94, 42, 91, 92, 87, 1, 51, 101]
+	Cost: 1955.8
+	Duration: 1097.39
+	Departure Time: 87.5846
+Route #9: [0, 17, 67, 20, 70, 19, 69, 101]
+	Cost: 1032.28
+	Duration: 622.238
+	Departure Time: 186.677
+Route #10: [0, 45, 48, 95, 46, 98, 96, 101]
+	Cost: 969.247
+	Duration: 605.779
+	Departure Time: 182.952
+Route #11: [0, 5, 50, 49, 99, 100, 55, 4, 54, 101]
+	Cost: 1314.71
+	Duration: 800.542
+	Departure Time: 8.45385
+Route #12: [0, 34, 29, 79, 84, 101]
+	Cost: 705.403
+	Duration: 440.877
+	Departure Time: 36.4923
+Route #13: [0, 35, 36, 38, 86, 88, 85, 28, 78, 27, 77, 101]
+	Cost: 1452.63
+	Duration: 883.757
+	Departure Time: 274.123
+Total Cost:	16775.7
+Total Duration:	9850.81

@@ -1,0 +1,20 @@
+Instance Name: 	S_LRC104_TDPDP_10
+Status: Optimum
+Root LP: 	485.66
+Root Time: 	0.041
+Best Bound: 	485.66
+Best Upper Bound: 	485.66
+Total Time: 	0.041
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 1, 6, 4, 9, 2, 7, 11]
+	Cost: 287.344
+	Duration: 156.661
+	Departure Time: 78.0143
+Route #2: [0, 3, 8, 5, 10, 11]
+	Cost: 198.316
+	Duration: 123.948
+	Departure Time: 112.086
+Total Cost:	485.66
+Total Duration:	280.608

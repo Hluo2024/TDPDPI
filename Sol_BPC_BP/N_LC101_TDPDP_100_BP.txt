@@ -1,0 +1,84 @@
+Instance Name: 	N_LC101_TDPDP_100
+Status: Optimum
+Root LP: 	19342.2
+Root Time: 	1.624
+Best Bound: 	19344.1
+Best Upper Bound: 	19344.1
+Total Time: 	2.3
+#Cuts: 	0
+#Nodes: 	3
+Best solution:
+Route #1: [0, 16, 9, 59, 66, 101]
+	Cost: 712.32
+	Duration: 445.2
+	Departure Time: 352.115
+Route #2: [0, 8, 58, 7, 20, 70, 57, 101]
+	Cost: 1307.84
+	Duration: 799.377
+	Departure Time: 13.2
+Route #3: [0, 39, 34, 89, 84, 38, 88, 101]
+	Cost: 1497.04
+	Duration: 935.649
+	Departure Time: 87.5154
+Route #4: [0, 23, 22, 73, 72, 24, 74, 25, 75, 28, 78, 27, 77, 26, 76, 101]
+	Cost: 1988.49
+	Duration: 1223.92
+	Departure Time: 3.26923
+Route #5: [0, 2, 52, 101]
+	Cost: 437.097
+	Duration: 257.073
+	Departure Time: 687.385
+Route #6: [0, 11, 61, 101]
+	Cost: 324.923
+	Duration: 203.077
+	Departure Time: 42.4615
+Route #7: [0, 48, 35, 85, 46, 98, 96, 101]
+	Cost: 1244.43
+	Duration: 777.769
+	Departure Time: 68.1385
+Route #8: [0, 17, 67, 101]
+	Cost: 408.272
+	Duration: 240.123
+	Departure Time: 75.6769
+Route #9: [0, 10, 60, 12, 13, 14, 64, 63, 62, 101]
+	Cost: 1201.17
+	Duration: 750.731
+	Departure Time: 264.28
+Route #10: [0, 31, 81, 101]
+	Cost: 421.61
+	Duration: 235.431
+	Departure Time: 8.07692
+Route #11: [0, 50, 100, 49, 99, 4, 54, 101]
+	Cost: 1166.95
+	Duration: 702.669
+	Departure Time: 128.262
+Route #12: [0, 33, 29, 79, 83, 101]
+	Cost: 995.077
+	Duration: 621.923
+	Departure Time: 67.6077
+Route #13: [0, 37, 30, 87, 80, 21, 71, 101]
+	Cost: 1532.67
+	Duration: 690.215
+	Departure Time: 119.146
+Route #14: [0, 18, 15, 65, 68, 19, 36, 86, 69, 101]
+	Cost: 1287.88
+	Duration: 804.926
+	Departure Time: 70.5736
+Route #15: [0, 3, 47, 44, 1, 94, 97, 51, 53, 101]
+	Cost: 1825.16
+	Duration: 1029.46
+	Departure Time: 115.292
+Route #16: [0, 45, 95, 32, 82, 101]
+	Cost: 1029.74
+	Duration: 643.585
+	Departure Time: 124.385
+Route #17: [0, 5, 55, 6, 56, 101]
+	Cost: 662.09
+	Duration: 412.146
+	Departure Time: 55.3615
+Route #18: [0, 42, 92, 41, 40, 91, 90, 43, 93, 101]
+	Cost: 1301.33
+	Duration: 788.623
+	Departure Time: 129.777
+Total Cost:	19344.1
+Total Duration:	11561.9

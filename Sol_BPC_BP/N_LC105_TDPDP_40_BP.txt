@@ -1,0 +1,40 @@
+Instance Name: 	N_LC105_TDPDP_40
+Status: Optimum
+Root LP: 	7047.69
+Root Time: 	0.534
+Best Bound: 	7086.9
+Best Upper Bound: 	7086.9
+Total Time: 	0.987
+#Cuts: 	0
+#Nodes: 	3
+Best solution:
+Route #1: [0, 12, 20, 40, 32, 41]
+	Cost: 526.302
+	Duration: 328.938
+	Departure Time: 657.408
+Route #2: [0, 18, 6, 26, 38, 41]
+	Cost: 976.837
+	Duration: 610.523
+	Departure Time: 145.677
+Route #3: [0, 15, 35, 4, 9, 29, 24, 41]
+	Cost: 1046.36
+	Duration: 653.977
+	Departure Time: 148.954
+Route #4: [0, 19, 7, 10, 30, 39, 27, 2, 22, 1, 21, 41]
+	Cost: 1771.38
+	Duration: 1081.22
+	Departure Time: 28.2077
+Route #5: [0, 11, 31, 17, 37, 16, 36, 13, 14, 34, 33, 41]
+	Cost: 1469
+	Duration: 902.693
+	Departure Time: 6
+Route #6: [0, 8, 5, 28, 25, 41]
+	Cost: 965.078
+	Duration: 553.077
+	Departure Time: 51.3846
+Route #7: [0, 3, 23, 41]
+	Cost: 331.936
+	Duration: 204.808
+	Departure Time: 3.36154
+Total Cost:	7086.9
+Total Duration:	4335.24

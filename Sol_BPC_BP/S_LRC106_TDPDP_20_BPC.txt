@@ -1,0 +1,28 @@
+Instance Name: 	S_LRC106_TDPDP_20
+Status: Optimum
+Root LP: 	983.53
+Root Time: 	0.043
+Best Bound: 	983.53
+Best Upper Bound: 	983.53
+Total Time: 	0.043
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 10, 20, 9, 7, 17, 19, 21]
+	Cost: 317.401
+	Duration: 198.376
+	Departure Time: 32.9325
+Route #2: [0, 2, 12, 4, 6, 16, 14, 21]
+	Cost: 279.494
+	Duration: 172.44
+	Departure Time: 13.5018
+Route #3: [0, 5, 3, 13, 1, 11, 15, 21]
+	Cost: 246.557
+	Duration: 143.199
+	Departure Time: 76.1429
+Route #4: [0, 8, 18, 21]
+	Cost: 140.078
+	Duration: 83.8476
+	Departure Time: 114.286
+Total Cost:	983.53
+Total Duration:	597.862

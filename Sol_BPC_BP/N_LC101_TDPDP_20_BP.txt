@@ -1,0 +1,28 @@
+Instance Name: 	N_LC101_TDPDP_20
+Status: Optimum
+Root LP: 	3842.2
+Root Time: 	0.029
+Best Bound: 	3842.2
+Best Upper Bound: 	3842.2
+Total Time: 	0.029
+#Cuts: 	0
+#Nodes: 	1
+Best solution:
+Route #1: [0, 5, 3, 15, 1, 2, 12, 11, 13, 21]
+	Cost: 1814.21
+	Duration: 1081.27
+	Departure Time: 31.0538
+Route #2: [0, 8, 18, 7, 10, 20, 9, 19, 17, 21]
+	Cost: 1302.6
+	Duration: 797.058
+	Departure Time: 6.3
+Route #3: [0, 6, 16, 21]
+	Cost: 339.168
+	Duration: 211.98
+	Departure Time: 300.912
+Route #4: [0, 4, 14, 21]
+	Cost: 386.228
+	Duration: 241.392
+	Departure Time: 589.538
+Total Cost:	3842.2
+Total Duration:	2331.7
